@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/colorSendButton"/>
+                    <corners android:bottomLeftRadius="5dp"
+                        android:bottomRightRadius="5dp"/>
+                </shape>
+            </item>
+            <item android:top="-5dp"
+                android:bottom="0dp"
+                android:left="0dp"
+                android:right="0dp">
+                <shape>
+                    <stroke android:color="@color/colorSendButtonStroke"
+                        android:width="3dp"/>
+                    <corners android:bottomLeftRadius="5dp"
+                        android:bottomRightRadius="5dp"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+
+    <item android:state_focused="true">
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/colorSendButton"/>
+                    <corners android:bottomLeftRadius="5dp"
+                        android:bottomRightRadius="5dp"/>
+                </shape>
+            </item>
+            <item android:top="-5dp"
+                android:bottom="0dp"
+                android:left="0dp"
+                android:right="0dp">
+                <shape>
+                    <stroke android:color="@color/colorSendButtonStrokePressed"
+                        android:width="3dp"/>
+                    <corners android:bottomLeftRadius="5dp"
+                        android:bottomRightRadius="5dp"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">LoveLetter</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">遊戲大廳</string>
+
+    <string name="intro_loveletter">LoveLetter</string>
+    <string name="intro_receiver">To: Princess</string>
+    <string name="intro_sender">From:</string>
+    <string name="intro_send">send</string>
+
+    <string name="hall_create">創建房間</string>
+    <string name="hall_refresh">更新</string>
+
+    <string name="dialog_guess">猜測一張牌</string>
+    <string name="dialog_setting_7">選擇 [7]</string>
+    <string name="dialog_setting_8">選擇 [8]</string>
+    <string name="dialog_setting_X">啟用 [X]</string>
+
+    <string name="room_label_number">房號 : </string>
+    <string name="room_label_creator">房主 : </string>
+    <string name="room_label_players">人數 : </string>
+
+    <string name="nav_member">玩家列表</string>
+    <string name="nav_leave">離開房間</string>
+    <string name="nav_start">開始遊戲</string>
+    <string name="nav_abort">終止遊戲</string>
+    <string name="nav_option">遊戲設定</string>
+    <string name="nav_creator_div">房主選項</string>
+    <string name="nav_general_div">一般選項</string>
+
+    <string name="warning_leave">確定要離開房間？</string>
+    <string name="option_yes">是</string>
+    <string name="option_no">否</string>
+    <string name="option_close">關閉</string>
+
+    <string name="warning_seven_first">請先選擇艾薇爾[7]</string>
+    <string name="warning_eight_forbid">不可直接丟棄火焰公主[8]</string>
+    <string name="warning_has"> 有一張 </string>
+    <string name="warning_id_too_long">暱稱過長</string>
+    <string name="warning_id_empty">請輸入暱稱</string>
+    <string name="warning_id_invalid">請出入合法暱稱</string>
+    <string name="warning_id_repeat">重複的暱稱</string>
+
+
+</resources>

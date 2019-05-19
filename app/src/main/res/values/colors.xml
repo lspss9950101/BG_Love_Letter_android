@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#910f2e</color>
+    <color name="colorPrimaryDark">#620a1f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTitle">#800000</color>
+    <color name="colorLetter">#FFF0F5</color>
+    <color name="colorSendButton">#FFE4E1</color>
+    <color name="colorSendButtonStroke">#FF69B4</color>
+    <color name="colorSendButtonStrokePressed">#FF1493</color>
+
+    <color name="colorWarningBackground">#c85b3131</color>
+    <color name="colorWarningStroke">#7c0707</color>
+
+    <color name="colorMessageBackground">#b6e5ea</color>
+    <color name="colorMessageStroke">#4a709e</color>
+    <color name="colorMessageText">#34404f</color>
+</resources>

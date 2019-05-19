@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/nav_creator_div"
+        android:id="@+id/menuCreator">
+        <menu>
+            <item
+                android:id="@+id/nav_start"
+                android:icon="@drawable/ic_baseline_play_arrow_24px"
+                android:title="@string/nav_start" />
+            <item
+                android:id="@+id/nav_option"
+                android:icon="@drawable/ic_baseline_settings_20px"
+                android:title="@string/nav_option" />
+        </menu>
+    </item>
+
+</menu>
